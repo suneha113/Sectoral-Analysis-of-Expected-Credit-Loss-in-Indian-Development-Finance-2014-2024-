@@ -1,2 +1,3 @@
 # Sectoral-Analysis-of-Expected-Credit-Loss-in-Indian-Development-Finance-2014-2024
 Developed a machine learning–based framework to assess credit risk in World Bank–funded projects across India. Integrated financial and macroeconomic data to model PD, EAD, LGD, and ECL using CatBoost, applied SHAP for interpretability, and performed sectoral aggregation and stress testing for portfolio risk insights.
+Check it out on Streamlit: https://bsvccvdmur9yk5ddwfykeg.streamlit.app/
